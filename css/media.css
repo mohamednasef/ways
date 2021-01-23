@@ -1,0 +1,342 @@
+/* small phone and tablets*/
+
+@media (max-width:767px) {
+    
+/* start global */
+    .heading h2 {
+        font-weight: 200;
+      font-size: 29px
+     
+    }
+   .heading p {
+        font-size: 16px
+    }
+    
+    /* end global */
+    
+/*  start header */
+    
+    
+    /* start navbar */
+    .navbar-default .navbar-brand {
+        padding-top: 14px;
+    }
+    /* end navbar */
+    .know-me {
+        text-align: center;
+        padding: 120px 0 29px;
+
+
+
+    }
+    .header-text h1 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+
+    .header-text i {
+        font-size: 26px;
+    }
+    /* end header*/
+    
+    /* start our knowledge*/
+    .knowledge {
+        margin-bottom: 30px;
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+    .knowledge h2 {
+        font-size: 22px;
+        padding: 14px;
+       
+        
+    }
+    .knowledge h4 {
+        font-weight: 300
+    }
+    .knowledge p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.6;
+       
+        
+    }
+    
+    /* end our knowledge*/
+    
+    /* start out team */
+    
+      .member-photo {
+        text-align: center;
+    }
+    .member-meta {
+        margin-bottom: 30px;
+    }
+    /* end start out team */
+    
+    /* start portfolio */
+    .mu-simplefilter {
+        text-align: none;
+        margin: 0;
+        padding: 0;
+    }
+    .mu-simplefilter li {
+        margin-bottom: 7px;
+        
+    
+    }
+    .mu-filter-item-content{}
+     /* start portfolio */
+    
+    
+    /* start about-us */
+    
+    .about-us h3 {
+        font-size: 21px;
+        margin: 0;
+    }
+    
+    /* end about-us */
+    
+    
+    
+    
+
+
+    
+/* start service */
+    .service .heading h5 {
+        font-size: 13px;
+    }
+    .left-box h2 {
+        font-size: 31px;
+    }
+    
+    .left-box {
+        margin-bottom: 30px;
+    }
+    .left-box .last-one {
+        margin-bottom: 0;
+        
+    }
+/* end service */
+    
+/* start our service effect */
+    .our-service-effect .effects {
+    padding: 0;
+
+}
+    
+    .our-service-effect .effects .effect p {
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 50px;
+    }
+   
+    
+  
+/* end our service effect */
+    .purchase-now .col-md-3 {
+
+        text-align: center;
+        padding-top: 50px;
+    }
+    .blog-slider .carousel-indicators {
+        top: 97%
+    }
+
+    .portfolio-item .caption .contents {
+        padding: 39px 17px;
+    }
+    .portfolio-item .caption p {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 11px;
+    }
+    .portfolio-item .caption h4 {
+        font-size: 12px;
+        font-weight: 400;
+        font-family: "Raleway", sans-serif;
+        margin-bottom: 10px;
+
+    }
+      /* start price-box */
+    .price-box .card {
+        margin-bottom: 30px;
+    }
+      /* end price-box */
+    /* start blog */
+    
+    .left-section {
+        margin-bottom: 30px;
+    }
+    
+    .middle-section  {
+        margin-bottom: 30px;
+        
+        
+    }
+    .users p {
+        font-size: 12px
+    }
+   
+    /* end blog */
+    
+    /* footer*/
+    
+    footer .copyright {
+        float: none;
+      
+        text-align: center;
+    }
+    footer ul {
+        float: none;
+        text-align: center;
+
+
+    }
+    footer .footer-content {}
+    footer ul li a {
+        width: 25px;
+        height: 25px;
+        line-height: 22px;
+
+    }
+    footer ul li a i {
+        color: red
+    }
+}
+
+/* small screen */
+
+@media (min-width:768px) and (max-width:991px) {
+
+    .know-me {
+        text-align: center;
+        padding: 180px 0 50px;
+        margin: 0 
+
+
+
+    }
+   /* start price-box */
+    
+   
+    .portfolio-item .caption .contents {
+        padding: 55px 17px;
+    }
+    .portfolio-item .caption p {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 11px;
+    }
+    .portfolio-item .caption h4 {
+        font-size: 12px;
+        font-weight: 400;
+        font-family: "Raleway", sans-serif;
+        margin-bottom: 10px;
+
+    }
+    
+    /* end start price box */
+     /* start about-us */
+    
+    .about-us h3 {
+        font-size: 28px;
+        margin: 0 10%;
+    }
+    
+    /* end about-us */
+     
+   
+ /* start footer */
+
+    footer {
+
+    }
+
+    footer ul {
+
+        float: right
+    }
+    .copyright {
+        float: left;
+    }
+    
+    /* end footer */
+
+}
+
+/* medium screen */
+
+@media (min-width:991px) and (max-width:1199px) {
+
+    .know-me {
+        text-align: center;
+        padding: 190px 0 50px;
+
+
+    }
+
+
+    .picture img {
+        width: 500px;
+        height: 600px
+    }
+
+
+    .portfolio-item .caption .contents {
+        padding: 68px 17px;
+    }
+    .portfolio-item .caption p {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 11px;
+    }
+    .portfolio-item .caption h4 {
+        font-size: 13px;
+        font-weight: 400;
+        font-family: "Raleway", sans-serif;
+        margin-bottom: 10px;
+
+    }
+
+}
+
+
+/* large screen */
+
+@media (min-width:1200px) {
+
+    .know-me {
+        text-align: center;
+        padding: 210px 0 50px;
+
+
+
+
+    }
+    .picture img {
+        width: 600px;
+        height: 470px
+    }
+
+
+
+}
+
+
+/* another media */
+
+@media (min-width: 992px) .container {
+    width: 970p;
+}
+
+@media (min-width: 768px) .container {
+    width: 750p;
+}
+
+
+@media (max-width: 689px) {}
+
+@media (min-width:690px) {}
